@@ -1,0 +1,29 @@
+/*
+actor: 李俞興 (Lee, Yu-Xing)
+created date: 2018/01/29
+last updated date: 2018/01/29
+*/
+table {
+  border-spacing: 0;
+  text-align: right;
+}
+table>tbody>tr:nth-child(odd) {
+  background-color: #CCC;
+}
+table>tbody>tr:nth-child(even) {
+  background-color: #FFF;
+}
+table>tbody>tr:hover {
+  background-color: #ffff99;
+}
+td {
+  border-bottom: 1px solid;
+}
+/*
+.form-inline .form-control.rate {
+  width: 50%;
+}
+.form-control.rate {
+  width: 80%;
+}
+*/
