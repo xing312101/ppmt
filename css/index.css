@@ -1,8 +1,13 @@
 /*
 actor: 李俞興 (Lee, Yu-Xing)
 created date: 2018/01/29
-last updated date: 2018/01/29
+last updated date: 2018/01/31
 */
+
+body {
+  background-image: repeating-linear-gradient(90deg, #e2edff, 10px, #e2edff 5px, #FFF 15px);
+}
+
 table {
   border-spacing: 0;
   text-align: right;
